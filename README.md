@@ -1,5 +1,5 @@
 # THE F2E 2023 - 立委競選官網
-![readme_cover](images/readme_cover.png)
+![readme_cover](images/readme_cover.PNG)
 
 [UI 設計師：jhen](https://2023.thef2e.com/users/12061579704041679194) | [設計稿](https://www.figma.com/file/DCnuTZQ00D5VHiDkBLhxQ3/2023-The-F2E-%E7%AB%8B%E5%A7%94%E7%AB%B6%E9%81%B8%E5%AE%98%E7%B6%B2?type=design&node-id=139-170&mode=design&t=Xvlxh7wEyfXAkkPo-0) | [Demo](https://imshanna.github.io/F2E_2023_Mission1/)
 
